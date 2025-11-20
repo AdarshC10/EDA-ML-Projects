@@ -3,6 +3,10 @@
 This repository contains a collection of end-to-end **Machine Learning projects** implemented using Python.  
 The projects are organized into two main categories: **Classification** and **Regression**, showcasing both predictive modeling techniques.
 
+---
+
+## 📂 Folder Structure
+
 <div>
 <pre>
 Machine Learning Projects
@@ -20,10 +24,6 @@ Machine Learning Projects
     └── Medical Insurance Cost Prediction
 </pre>
 </div>
-
----
-
-## 📂 Folder Structure
 ---
 
 ## 🔍 Project Categories
