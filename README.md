@@ -3,6 +3,7 @@
 This repository contains a collection of end-to-end **Machine Learning projects** implemented using Python.  
 The projects are organized into two main categories: **Classification** and **Regression**, showcasing both predictive modeling techniques.
 
+<div>
 Machine Learning Projects
 │── Classification
 │ ├── Diabetes
@@ -16,6 +17,7 @@ Machine Learning Projects
 ├── California House Prediction
 ├── Gold Price Prediction
 └── Medical Insurance Cost Prediction
+</div>
 ---
 
 ## 📂 Folder Structure
