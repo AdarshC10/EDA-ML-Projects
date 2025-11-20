@@ -3,23 +3,24 @@
 This repository contains a collection of end-to-end **Machine Learning projects** implemented using Python.  
 The projects are organized into two main categories: **Classification** and **Regression**, showcasing both predictive modeling techniques.
 
-<div
-```
+<div>
+<pre>
 Machine Learning Projects
 │── Classification
-│ ├── Diabetes
-│ ├── Heart Disease Prediction
-│ ├── Sonar Rock vs Mine Prediction
-│ ├── Titanic Prediction
+│   ├── Diabetes
+│   ├── Heart Disease Prediction
+│   ├── Sonar Rock vs Mine Prediction
+│   ├── Titanic Prediction
 │
 └── Regression
-├── Boston
-├── Big Mart Sales Prediction
-├── California House Prediction
-├── Gold Price Prediction
-└── Medical Insurance Cost Prediction
-  ```
+    ├── Boston
+    ├── Big Mart Sales Prediction
+    ├── California House Prediction
+    ├── Gold Price Prediction
+    └── Medical Insurance Cost Prediction
+</pre>
 </div>
+
 ---
 
 ## 📂 Folder Structure
