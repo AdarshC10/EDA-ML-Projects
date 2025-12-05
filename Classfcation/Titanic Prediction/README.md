@@ -113,16 +113,6 @@ y = titanic['survived']
 
 ------------------------------------------------------------------------
 
-## ▶️ How to Run the Project
-
-``` bash
-pip install pandas numpy matplotlib seaborn scikit-learn
-```
-
-Then run the Python file or Jupyter Notebook.
-
-------------------------------------------------------------------------
-
 ## 🎯 Conclusion
 
 -   Logistic Regression performed slightly better than Decision Tree.
