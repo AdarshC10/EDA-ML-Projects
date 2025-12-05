@@ -1,5 +1,8 @@
 # 🩺 Diabetes Prediction Using Machine Learning  
 
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/831fb66a-b4f4-4461-bd12-f35b74f4aa2b" />
+
+
 ## 📌 Project Overview
 This project predicts whether a person has diabetes using machine learning classification models.  
 It uses the **Pima Indians Diabetes Dataset**, which consists of multiple medical diagnostic features that help determine the likelihood of diabetes.
