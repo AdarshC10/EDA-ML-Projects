@@ -1,21 +1,22 @@
 # ❤️ Heart Disease Prediction Using Machine Learning
 
-<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/placeholder-image" />
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/82132e06-1b65-4d92-992c-edcd9b685c05" />
+
 
 ## 📌 Project Overview
 
 This project predicts whether a person has **heart disease** using
-machine learning, specifically **Logistic Regression**.\
+machine learning, specifically **Logistic Regression**.
 The dataset contains patient health measurements such as age,
 cholesterol level, chest pain type, blood pressure, and more.
 
-The workflow includes: - Importing libraries\
-- Loading the dataset\
-- Understanding the data dictionary\
-- Exploratory data analysis\
-- Splitting data into train/test\
-- Building a Logistic Regression model\
-- Evaluating model performance\
+The workflow includes: - Importing libraries
+- Loading the dataset
+- Understanding the data dictionary
+- Exploratory data analysis
+- Splitting data into train/test
+- Building a Logistic Regression model
+- Evaluating model performance
 - Visualizing the confusion matrix
 
 ------------------------------------------------------------------------
@@ -37,8 +38,8 @@ from sklearn.metrics import confusion_matrix, classification_report, ConfusionMa
 
 ## 📥 Dataset Information
 
-**Dataset:** heart.csv\
-**Rows:** 303\
+**Dataset:** heart.csv
+**Rows:** 303
 **Columns:** 14
 
 ------------------------------------------------------------------------
