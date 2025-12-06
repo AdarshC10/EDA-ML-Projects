@@ -1,6 +1,4 @@
-Sure! Here is the **README.md formatted version** — clean, structured, and ready to use directly in your GitHub repository.
 
----
 
 
 # 🟡 Gold Price Prediction using Machine Learning
