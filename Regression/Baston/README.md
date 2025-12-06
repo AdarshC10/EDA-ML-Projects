@@ -80,21 +80,11 @@ Used all features to predict price.
 
 ### Evaluation Metrics:
 
--   **MAE:** 3.18\
--   **MSE:** 24.29\
--   **RMSE:** 4.92\
+-   **MAE:** 3.18
+-   **MSE:** 24.29
+-   **RMSE:** 4.92
 -   **R² Score:** 0.66
 
-------------------------------------------------------------------------
-
-## ▶️ How to Run the Project
-
-``` bash
-pip install pandas numpy matplotlib seaborn scikit-learn
-```
-
-Run the Python file or Jupyter Notebook after placing `boston.csv` in
-the project directory.
 
 ------------------------------------------------------------------------
 
